@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SyncVision</string>
+    <string name="imagine_create_share">Imagine. Create. Share</string>
+    <string name="start_body">Where ideas transform into reality, connections flourish, and creativity knows no limits.</string>
+    <string name="start_btn">Let`s get started!</string>
+    <string name="login_str">Let`s get you Login!</string>
+    <string name="login_text">Enter Information below</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="recover_password">Recover Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don`t have an account?</string>
+    <string name="let_s_register">Let`s Register</string>
+</resources>
